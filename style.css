@@ -1,0 +1,28 @@
+body {
+    font-family: Arial;
+    text-align: center;
+    background-color: white;
+    color: black;
+}
+ 
+button {
+    padding: 10px;
+    margin: 5px;
+}
+ 
+.mork {
+    background-color: black;
+    color: white;
+}
+ 
+.glad {
+    background-color: yellow;
+}
+ 
+.rolig {
+    background-color: lightblue;
+}
+ 
+.sur {
+    background-color: lightcoral;
+}
